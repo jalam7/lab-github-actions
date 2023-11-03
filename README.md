@@ -4,7 +4,7 @@
 
 [![codecov](https://codecov.io/gh/jalam7/lab-github-actions/graph/badge.svg?token=TTWU1X0ADK)](https://codecov.io/gh/jalam7/lab-github-actions)
 
-This is for NYU DevOps lab on using GitHub Actions with Redis for Continuous Integration
+This is forked from NYU DevOps lab,demonstrating usage of GitHub Actions with Redis for Continuous Integration
 
 ## Introduction
 
