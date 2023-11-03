@@ -1,8 +1,11 @@
 # lab-github-actions
 
 [![Build Status](https://github.com/jalam7/lab-github-actions/actions/workflows/workflow.yml/badge.svg)](https://github.com/jalam7/lab-github-actions/actions)
-
 [![codecov](https://codecov.io/gh/jalam7/lab-github-actions/graph/badge.svg?token=TTWU1X0ADK)](https://codecov.io/gh/jalam7/lab-github-actions)
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Python](https://img.shields.io/badge/Language-Python-blue.svg)](https://python.org/)
+
 
 This is forked from NYU DevOps lab,demonstrating usage of GitHub Actions with Redis for Continuous Integration
 
